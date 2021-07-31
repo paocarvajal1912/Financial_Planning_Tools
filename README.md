@@ -1,6 +1,6 @@
 # Financial Planning with APIs and Simulations
 
-In this single notebook, we will show two financial analysis tools:
+In this project, we will show two financial analysis tools in one notebook:
 
 Part 1: A financial planner for emergencies. Investors will be able to use this tool to visualize their current savings. They will be able to determine if they have enough reserves for an emergency fund.
 
